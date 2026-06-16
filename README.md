@@ -8,4 +8,4 @@ To run this notebook, ensure you have Python installed, then install the require
 `pip install pandas seaborn statsmodels matplotlib scipy`
 
 ## Execution
-Open `regression_analysis.ipynb` in Jupyter Notebook or JupyterLab and "Run All" cells to view data cleaning, visualizations, statistical modeling, and final business recommendations.
+Open `simple linear regression.pdf`.
